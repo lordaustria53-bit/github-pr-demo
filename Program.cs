@@ -1,2 +1,2 @@
-Console.WriteLine("Welcome to ADET!");
+Console.WriteLine("Welcome to ADET, students!");
 Console.WriteLine("Thank you for visiting!");
